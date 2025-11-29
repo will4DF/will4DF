@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is William Delgado, I like 
+My name is William Delgado.
 
 I’m currently working on a project which I believe will make the world better. It's something that I plan to announce in a few months. WHile doing that I'm also pursuing a degree in Computer Science at the university of Brigham Young Idaho. 
 
